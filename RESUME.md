@@ -6,11 +6,13 @@ Clone my resume!
 
 `$ git clone https://github.com/aggroskater/resume.git`
 
-* Mail: aggroskater@gmail.com (PGP Key available at http://pgp.mit.edu/) 
-    * _impress me with your ability to send an encrypted email!_
-* Blog: [http://aspensmonster.com/](http://aspensmonster.com/) 
+* __Phone__: 512-955-1048
+    * _It's always nice to get calls from someone other than a collector._
+* __Email__: aggroskater@gmail.com (main key id: 9202669D)
+    * _impress me with your ability to send an encrypted email! Impress me further still by giving me a call to verify the fingerprint!_
+* __Blog__: [http://aspensmonster.com/](http://aspensmonster.com/) 
     * _Click this link and you too can be one of the hundred or so visitors a day!_
-* Code: [https://github.com/aggroskater/](https://github.com/aggroskater/) 
+* __Code__: [https://github.com/aggroskater/](https://github.com/aggroskater/) 
     * _Ream me for my terrible coding style and abysmal build-breaking commits!_
 
 # Stuff you Should Care About
