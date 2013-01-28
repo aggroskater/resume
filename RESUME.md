@@ -19,7 +19,7 @@ This is the stuff that I'm passionate about. These are the things I put effort
 into and learn for no better reason than "because." Because technology is 
 awesome and community is important.
 
-* Participation in Open Source Community
+* Participation in Open Source and Free Software Community
     * [Member of Archive Team](http://www.archiveteam.org/index.php?title=Special%3ASearch&search=aggroskater&go=Go)
     * [Bug Squashing with GNU FSF's `grep`](https://savannah.gnu.org/bugs/index.php?36570)
     * [Bug Squashing with Valve's `steam`](https://github.com/ValveSoftware/steam-for-linux/issues/753)
