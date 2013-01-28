@@ -30,10 +30,10 @@ awesome and community is important.
     * [Rudimentary Class A Power Amplifier](https://github.com/aggroskater/ee3350-project/blob/master/final-schem.png)
     * A personal [wiki](http://wiki.aspensmonster.com/) with guides on [some](http://wiki.aspensmonster.com/w/Y%27_-_1/2_y_%3D_2cos%28t%29) [differential](http://wiki.aspensmonster.com/w/Solve_the_equation_dy/dx_EQ_ay%2Bb_/_cy%2Bd) [equations](http://wiki.aspensmonster.com/w/Consider_the_Equation_dy/dx_%3D_y-4x_/_x-y) problems and [circuits](http://wiki.aspensmonster.com/w/For_the_circuit_shown_in_Fig._P2.23) problems.
 * Competencies
-    * Programming: C++
-    * Scripting: Bash
-    * Version Control: git
-    * System Administration: GNU/Linux 
+    * __Programming__: C++
+    * __Scripting__: Bash
+    * __Version Control__: git
+    * __System Administration__: GNU/Linux 
     * [Community Management/Communication](http://www.archiveteam.org/index.php?title=Talk:Parodius_Networking)
 
 # Stuff you Actually Care About
@@ -46,6 +46,6 @@ Let's face it. This is the stuff you're really looking at.
     * __HostGator.com LLC__ (13 months): GNU/Linux Web Hosting Systems Administration (Calls, Chats, Email), undestanding of Apache, Exim, Dovecot, MySQL, cPanel, WHM, bash/perl scripting, strace debugging, customer site performance evaluation and optimization.  
  
 * Academics
-    * Projected Graduation: Summer 2014
-    * Completed Hours: 0x120
-    * GPA: 0x403147AE (IEEE-754)
+    * __Projected Graduation__: Summer 2014
+    * __Completed Hours__: 0x120
+    * __GPA__: 0x403147AE (IEEE-754)
