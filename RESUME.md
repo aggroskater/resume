@@ -30,7 +30,7 @@ awesome and community is important.
     * [Rudimentary Class A Power Amplifier](https://github.com/aggroskater/ee3350-project/blob/master/final-schem.png)
     * A personal [wiki](http://wiki.aspensmonster.com/) with guides on [some](http://wiki.aspensmonster.com/w/Y%27_-_1/2_y_%3D_2cos%28t%29) [differential](http://wiki.aspensmonster.com/w/Solve_the_equation_dy/dx_EQ_ay%2Bb_/_cy%2Bd) [equations](http://wiki.aspensmonster.com/w/Consider_the_Equation_dy/dx_%3D_y-4x_/_x-y) problems and [circuits](http://wiki.aspensmonster.com/w/For_the_circuit_shown_in_Fig._P2.23) problems.
 * Competencies
-    * __Programming__: C++
+    * __Programming__: C++ (with exposure to C with autotools, perl, and various flavours of assembly)
     * __Scripting__: Bash
     * __Version Control__: git
     * __System Administration__: GNU/Linux 
@@ -42,7 +42,7 @@ Let's face it. This is the stuff you're really looking at.
 
 * Previous Employment
     * __Colorado School of Mines__ (4 months): "Digger Dialer" - Fundraising, Donation Solicitation, general pestering of alumni
-    * __Pei Wei Asian Diner__ (12 months): PoS expert user, eating surface sanitation specialist, client deliverables preparation and delivery, fork one of my repo's if you're actually reading this, client deliverables preparation and delivery, I was a cashier and busboy and runner and food prepper and closer and all around customer's butler, manager of transcriptions of phone-in orders to internally understood documenation, I repeated one of these specialties, guest conflict resolver
+    * __Pei Wei Asian Diner__ (12 months): PoS expert user, eating surface sanitation specialist, client deliverables preparation and delivery, fork one of my repo's if you're actually reading this, client deliverables preparation and delivery, I was a cashier and busboy and runner and food prepper and closer and all around customer's butler, manager of transcriptions of phone-in orders to internally understood documentation, I repeated one of these specialties, guest conflict resolver
     * __HostGator.com LLC__ (13 months): GNU/Linux Web Hosting Systems Administration (Calls, Chats, Email), undestanding of Apache, Exim, Dovecot, MySQL, cPanel, WHM, bash/perl scripting, strace debugging, customer site performance evaluation and optimization.  
  
 * Academics
