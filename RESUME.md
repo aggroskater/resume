@@ -23,11 +23,12 @@ awesome and community is important.
     * [Member of Archive Team](http://www.archiveteam.org/index.php?title=Special%3ASearch&search=aggroskater&go=Go)
     * [Bug Squashing with GNU FSF's `grep`](https://savannah.gnu.org/bugs/index.php?36570)
     * [Bug Squashing with Valve's `steam`](https://github.com/ValveSoftware/steam-for-linux/issues/753)
-    * [Extensive]() [documentation]() [and tutorials]() [of various GNU/Linux user needs]()
+    * A blog with [extensive](http://aspensmonster.com/2013/01/19/updated-procedures-for-installing-steam-for-linux-beta-on-debian-gnulinux-testingwheezy/) [documentation](http://aspensmonster.com/2011/10/22/setting-up-a-pxe-netboot-server-for-network-installations-of-gnulinux/) [and tutorials](http://aspensmonster.com/2011/09/11/installing-prboom-and-dosbox-without-root-privileges/) [of various GNU/Linux user needs](http://aspensmonster.com/2011/08/04/shell-scripting-for-pottermore/) [and write-ups](http://aspensmonster.com/2009/12/27/find-the-maclaurin-series-for-sqrtx1/) [of a mathematical nature] (http://aspensmonster.com/2010/11/19/a-blood-brain-pharmacokinetic-model/)
 * Projects
-    * [Terminal-based Aces Up game](https://github.com/aggroskater/cardgame.git)
+    * [Terminal-based Aces Up card game](https://github.com/aggroskater/cardgame.git)
     * [Rudimentary DC Power Supply](https://github.com/aggroskater/ee3350-project/blob/master/final-psu.png)
     * [Rudimentary Class A Power Amplifier](https://github.com/aggroskater/ee3350-project/blob/master/final-schem.png)
+    * A personal [wiki](http://wiki.aspensmonster.com/) with guides on [some](http://wiki.aspensmonster.com/w/Y%27_-_1/2_y_%3D_2cos%28t%29) [differential](http://wiki.aspensmonster.com/w/Solve_the_equation_dy/dx_EQ_ay%2Bb_/_cy%2Bd) [equations](http://wiki.aspensmonster.com/w/Consider_the_Equation_dy/dx_%3D_y-4x_/_x-y) problems and [circuits](http://wiki.aspensmonster.com/w/For_the_circuit_shown_in_Fig._P2.23) problems.
 * Competencies
     * Programming: C++
     * Scripting: Bash
