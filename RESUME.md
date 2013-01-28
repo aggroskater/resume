@@ -40,7 +40,7 @@ Let's face it. This is the stuff you're really looking at.
     * Colorado School of Mines (4 months): "Digger Dialer" - Fundraising, Donation Solicitation, general pestering of alumni
     * Pei Wei Asian Diner (12 months): PoS expert user, eating surface sanitation specialist, client deliverables preparation and delivery, fork one of my repo's if you're actually reading this, client deliverables preparation and delivery, I was a cashier and busboy and runner and food prepper and closer and all around customer's butler, manager of transcriptions of phone-in orders to internally understood documenation, I repeated one of these specialties, guest conflict resolver
     * HostGator.com LLC (13 months): GNU/Linux Web Hosting Systems Administration (Calls, Chats, Email), undestanding of Apache, Exim, Dovecot, MySQL, cPanel, WHM, bash/perl scripting, strace debugging, customer site performance evaluation and optimization.
-
+ 
 * Academics
     * Projected Graduation: Summer 2014
     * Completed Hours: 0x120
