@@ -33,7 +33,7 @@ awesome and community is important.
       as well as [write-ups](http://aspensmonster.com/2009/12/27/find-the-maclaurin-series-for-sqrtx1/) 
       of a [mathematical nature](http://aspensmonster.com/2010/11/19/a-blood-brain-pharmacokinetic-model/)
 * Projects
-    * [Terminal-based Aces Up card game](https://github.com/aggroskater/cardgame.git)
+    * [Terminal-based Aces Up card game in C++](https://github.com/aggroskater/cardgame.git)
     * [Rudimentary DC Power Supply](https://github.com/aggroskater/ee3350-project/blob/master/final-psu.png)
     * [Rudimentary Class A Power Amplifier](https://github.com/aggroskater/ee3350-project/blob/master/final-schem.png)
     * A personal [wiki](http://wiki.aspensmonster.com/) with guides on 
