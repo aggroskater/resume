@@ -24,7 +24,7 @@ awesome and community is important.
 
 * Participation in Open Source and Free Software Community
     * [Member of Archive Team](http://www.archiveteam.org/index.php?title=Special%3ASearch&search=aggroskater&go=Go)
-    * [Bug Squashing with GNU FSF's `grep`](https://savannah.gnu.org/bugs/index.php?36570)
+    * [Bug Squashing with GNU FSF's `wget`](https://savannah.gnu.org/bugs/index.php?36570)
     * [Bug Squashing with Valve's `steam`](https://github.com/ValveSoftware/steam-for-linux/issues/753) (Ok, technically not Open Source, but still involved)
     * A blog with [extensive](http://aspensmonster.com/2013/01/19/updated-procedures-for-installing-steam-for-linux-beta-on-debian-gnulinux-testingwheezy/) 
       [documentation](http://aspensmonster.com/2011/10/22/setting-up-a-pxe-netboot-server-for-network-installations-of-gnulinux/) 
@@ -70,5 +70,5 @@ Let's face it. This is the stuff you're really looking at.
  
 * Academics
     * __Projected Graduation__: Summer 2014
-    * __Completed Hours__: 0x120
+    * __Completed Hours__: 0x78
     * __GPA__: 0x403147AE (IEEE-754)
