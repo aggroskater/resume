@@ -1,4 +1,4 @@
-# Preston Maness - March 14 2013
+# Preston Maness - January 15 2014
 
 Electrical and Computer Engineering at Texas State University
 
@@ -26,7 +26,7 @@ awesome and community is important.
     * [Member of Archive Team](http://www.archiveteam.org/index.php?title=Special%3ASearch&search=aggroskater&go=Go)
     * [Bug Squashing with GNU FSF's `wget`](https://savannah.gnu.org/bugs/index.php?36570)
     * [Bug Squashing with Valve's `steam`](https://github.com/ValveSoftware/steam-for-linux/issues/753) (Ok, technically not Open Source, but still involved)
-    * [Devops/Bug Squashing/Feature building work for Youtube Center](https://github.com/YePpHa/YouTubeCenter/issues/219) Assisted @YePpHa with automatic plugin updating for the YTC project. See [pull request](https://github.com/YePpHa/YouTubeCenter/pull/222)
+    * [Devops/Bug Squashing/Feature building work for Youtube Center](https://github.com/YePpHa/YouTubeCenter/issues/219) (Assisted @YePpHa with automatic plugin updating for the YTC project. See [pull request](https://github.com/YePpHa/YouTubeCenter/pull/222))
     * A blog with [extensive](http://aspensmonster.com/2013/01/19/updated-procedures-for-installing-steam-for-linux-beta-on-debian-gnulinux-testingwheezy/) 
       [documentation](http://aspensmonster.com/2011/10/22/setting-up-a-pxe-netboot-server-for-network-installations-of-gnulinux/) 
       and [tutorials](http://aspensmonster.com/2011/09/11/installing-prboom-and-dosbox-without-root-privileges/) 
