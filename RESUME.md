@@ -37,6 +37,7 @@ awesome and community is important.
     * [Terminal-based Aces Up card game in C++](https://github.com/aggroskater/cardgame.git)
     * [Rudimentary DC Power Supply](https://github.com/aggroskater/ee3350-project/blob/master/final-psu.png)
     * [Rudimentary Class A Power Amplifier](https://github.com/aggroskater/ee3350-project/blob/master/final-schem.png)
+    * [Hardware Random Number Generator](https://github.com/aggroskater/ee4390-senior-design-i/)
     * A personal [wiki](http://wiki.aspensmonster.com/) with guides on 
       [some](http://wiki.aspensmonster.com/w/Y%27_-_1/2_y_%3D_2cos%28t%29) 
       [differential](http://wiki.aspensmonster.com/w/Solve_the_equation_dy/dx_EQ_ay%2Bb_/_cy%2Bd) 
