@@ -1,8 +1,6 @@
 # Preston Maness - February 04 2014
 
-Electrical and Computer Engineering at Texas State University
-
-Clone my resume! 
+Electrical and Computer Engineering at Texas State University. Clone my resume! 
 
 `$ git clone https://github.com/aggroskater/resume.git`
 
