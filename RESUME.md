@@ -60,7 +60,7 @@ was a cashier and busboy and runner and food prepper and closer and all around
 customer's butler, manager of transcriptions of phone-in orders to internally
 understood documentation, guest conflict resolver
     * __HostGator.com LLC__ (13 months): GNU/Linux Web Hosting Systems
-      Administration (Calls, Chats, Email), undestanding of Apache, Exim,
+      Administration (Calls, Chats, Email), understanding of Apache, Exim,
 Dovecot, MySQL, cPanel, WHM, bash/perl scripting, strace debugging, customer
 site performance evaluation and optimization
  
