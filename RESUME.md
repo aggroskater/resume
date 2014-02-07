@@ -10,7 +10,7 @@ Electrical and Computer Engineering at Texas State University. Clone my resume!
 * __Blog__: [http://aspensmonster.com/](http://aspensmonster.com/) 
 * __Code__: [https://github.com/aggroskater/](https://github.com/aggroskater/) 
 * __StackExchange__: [https://electronics.stackexchange.com/users/23189/preston-maness](https://electronics.stackexchange.com/users/23189/preston-maness)
-* __Hacker News__: [https://news.ycombinator.com/user?id=aspensmonster](https://news.ycombinator.com/user?id=aspensmonster)
+* __LinkedIn__: [http://www.linkedin.com/pub/preston-maness/8b/973/202](http://www.linkedin.com/pub/preston-maness/8b/973/202)
 
 # Stuff you Should Care About
 
@@ -66,5 +66,5 @@ site performance evaluation and optimization
  
 * Academics
     * __Graduation Date__: May 2014
-    * __Completed Hours__: 0x78
+    * __Completed Hours__: 0x8A
     * __GPA__: 0x40333333 (IEEE-754)
