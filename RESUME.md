@@ -12,11 +12,11 @@ Electrical and Computer Engineering at Texas State University. Clone my resume!
 * __StackExchange__: [https://electronics.stackexchange.com/users/23189/preston-maness](https://electronics.stackexchange.com/users/23189/preston-maness)
 * __LinkedIn__: [http://www.linkedin.com/pub/preston-maness/8b/973/202](http://www.linkedin.com/pub/preston-maness/8b/973/202)
 
-# Stuff you Should Care About
+# Stuff You Should Care About
 
 This is the stuff that I'm passionate about. These are the things I put effort 
 into and learn for no better reason than "because." Because technology is 
-awesome and community is important.
+awesome and community is important. Wouldn't you agree?
 
 * Participation in Open Source and Free Software Community
     * [Member of Archive Team](http://www.archiveteam.org/index.php?title=Special%3ASearch&search=aggroskater&go=Go)
@@ -47,9 +47,9 @@ awesome and community is important.
       iverilog, gtkwave, ngspice
     * __System Administration__: GNU/Linux 
 
-# Stuff you Actually Care About
+# Stuff You Actually Care About
 
-Let's face it. This is the stuff you're really looking at. 
+Let's face it. This is the stuff you're really looking at. Or is it?
 
 * Previous Employment
     * __Colorado School of Mines__ (4 months): "Digger Dialer" - Fundraising, 
