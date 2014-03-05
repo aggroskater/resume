@@ -1,4 +1,4 @@
-# Preston Maness - February 04 2014
+# Preston Maness - March 05 2014
 
 Electrical and Computer Engineering at Texas State University. Clone my resume! 
 
@@ -40,7 +40,7 @@ awesome and community is important.
       [equations](http://wiki.aspensmonster.com/w/Consider_the_Equation_dy/dx_%3D_y-4x_/_x-y) 
       problems and [circuits](http://wiki.aspensmonster.com/w/For_the_circuit_shown_in_Fig._P2.23) problems.
 * Languages and Tools
-    * __Programming__: C++, Verilog, HCS12 assembly
+    * __Programming__: C++, VHDL, HCS12 assembly
     * __Scripting__: Bash, Perl
     * __Development Tools__: git, ant, GCC, eclipse, make, Doxygen
     * __Software__: Xilinx ISE, NI Multisim, LT-SPICE, MATLAB, Microwind,
