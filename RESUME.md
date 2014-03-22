@@ -1,4 +1,4 @@
-# Preston Maness - March 05 2014
+# Preston Maness - March 21 2014
 
 Electrical and Computer Engineering at Texas State University. Clone my resume! 
 
@@ -52,19 +52,20 @@ awesome and community is important. Wouldn't you agree?
 Let's face it. This is the stuff you're really looking at. Or is it?
 
 * Previous Employment
-    * __Colorado School of Mines__ (4 months): "Digger Dialer" - Fundraising, 
-      Donation Solicitation, general pestering of alumni
-    * __Pei Wei Asian Diner__ (12 months): PoS expert user, eating surface
-      sanitation specialist, client deliverables preparation and delivery, I
-was a cashier and busboy and runner and food prepper and closer and all around
-customer's butler, manager of transcriptions of phone-in orders to internally
-understood documentation, guest conflict resolver
-    * __HostGator.com LLC__ (13 months): GNU/Linux Web Hosting Systems
-      Administration (Calls, Chats, Email), understanding of Apache, Exim,
-Dovecot, MySQL, cPanel, WHM, bash/perl scripting, strace debugging, customer
-site performance evaluation and optimization
+    * __Colorado School of Mines__ (4 months ; Sep. 2009 - Dec. 2009): "Digger
+      Dialer" - Fundraising, Donation Solicitation, general pestering of alumni
+    * __Pei Wei Asian Diner__ (12 months ; Jan. 2010 - Jan. 2011): PoS expert
+      user, eating surface sanitation specialist, client deliverables
+preparation and delivery, I was a cashier and busboy and runner and food
+prepper and closer and all around customer's butler, manager of transcriptions
+of phone-in orders to internally understood documentation, guest conflict
+resolver
+    * __HostGator.com LLC__ (13 months ; Jan. 2011 - Feb. 2012): GNU/Linux Web
+      Hosting Systems Administration (Calls, Chats, Email), understanding of
+Apache, Exim, Dovecot, MySQL, cPanel, WHM, bash/perl scripting, strace
+debugging, customer site performance evaluation and optimization
  
 * Academics
-    * __Graduation Date__: May 2014
+    * __Graduation Date__: Friday May 9 2014 at 1400
     * __Completed Hours__: 0x8A
     * __GPA__: 0x40333333 (IEEE-754)
