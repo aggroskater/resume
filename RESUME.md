@@ -1,4 +1,4 @@
-# Preston Maness - April 11 2014
+# Preston Maness - May 12 2014
 
 Electrical and Computer Engineering at Texas State University. Clone my resume! 
 
@@ -65,7 +65,5 @@ resolver
 Apache, Exim, Dovecot, MySQL, cPanel, WHM, bash/perl scripting, strace
 debugging, customer site performance evaluation and optimization
  
-* Academics
-    * __Graduation Date__: Friday May 9 2014 at 1400
-    * __Completed Hours__: 0x8A
-    * __GPA__: 0x40333333 (IEEE-754)
+* Bachelor of Science, Electrical Engineering, Computer Engineering
+  concentration, Texas State University, class of 2014
