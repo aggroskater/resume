@@ -33,12 +33,16 @@ awesome and community is important.
     * [Rudimentary DC Power Supply](https://github.com/aggroskater/ee3350-project/blob/master/final-psu.png)
     * [Rudimentary Class A Power Amplifier](https://github.com/aggroskater/ee3350-project/blob/master/final-schem.png)
 * Languages and Tools
-    * __Programming__: C++, VHDL, HCS12 assembly
+    * __Programming__: C++, Java, VHDL, HCS12 assembly
     * __Scripting__: Bash, Perl
-    * __Development Tools__: git, ant, GCC, eclipse, make, Doxygen
+    * __Development Tools__: git, ant, GCC, eclipse, make, Doxygen, jenkins,
+      valgrind
     * __Software__: Xilinx ISE, NI Multisim, LT-SPICE, MATLAB, Microwind,
-      iverilog, gtkwave, ngspice
-    * __System Administration__: GNU/Linux 
+      iverilog, gtkwave, ngspice, vim
+    * __System Administration__: GNU/Linux (Apache, MySQL, PHP, Perl, Varish
+      HTTP accelerator, Wordpress, MediaWiki, Nagios monitoring, pnp4nagios,
+Vagrant VM manager, Ansible automation, APT and RPM package management, Debian
+and CentOS distribution experience)
 
 # The Experience and Education
 
