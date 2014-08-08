@@ -18,6 +18,7 @@ awesome and community is important.
 
 * Participation in Open Source and Free Software Community
     * [Devops/Bug Squashing/Feature building work for Youtube Center](https://github.com/YePpHa/YouTubeCenter/issues/219) (Assisted @YePpHa with automatic plugin updating for the YTC project. See [pull request](https://github.com/YePpHa/YouTubeCenter/pull/222))
+    * [Initial analysis of FinFisher malware suite](https://github.com/FinFisher/FinFly-Web/tree/master/xpi) (Used prior experience with browser addons/extensions to analyze the FinFisher malware suite's Firefox browser addon/extension attack vector. See [pull request](https://github.com/FinFisher/FinFly-Web/pull/4))
     * [Member of Archive Team](http://www.archiveteam.org/index.php?title=Special%3ASearch&search=aggroskater&go=Go)
     * [Bug Squashing with GNU FSF's `wget`](https://savannah.gnu.org/bugs/index.php?36570)
     * [Bug Squashing with Valve's `steam`](https://github.com/ValveSoftware/steam-for-linux/issues/753) (Ok, technically not Open Source, but still involved)
