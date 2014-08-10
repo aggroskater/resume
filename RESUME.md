@@ -6,9 +6,9 @@ Recent EE grad from Texas State University. Clone my resume!
 
 * __Phone__: 512-955-1048 
 * __Email__: aggroskater@gmail.com (main key id: 9202669D)
-* __Blog__: [http://aspensmonster.com/](http://aspensmonster.com/) 
-* __Code__: [https://github.com/aggroskater/](https://github.com/aggroskater/) 
-* __LinkedIn__: [http://www.linkedin.com/pub/preston-maness/8b/973/202](http://www.linkedin.com/pub/preston-maness/8b/973/202)
+* __Blog__: http://aspensmonster.com/
+* __Code__: https://github.com/aggroskater/
+* __LinkedIn__: http://www.linkedin.com/pub/preston-maness/8b/973/202
 
 # The Involvement
 
@@ -16,23 +16,25 @@ This is the stuff that I'm passionate about. These are the things I put effort
 into and learn for no better reason than "because." Because technology is 
 awesome and community is important.
 
+(See https://github.com/aggroskater/resume/blob/master/RESUME.md for hyperlinks)
+
 * Participation in Open Source and Free Software Community
-    * [Devops/Bug Squashing/Feature building work for Youtube Center](https://github.com/YePpHa/YouTubeCenter/issues/219) (Assisted @YePpHa with automatic plugin updating for the YTC project. See [pull request](https://github.com/YePpHa/YouTubeCenter/pull/222))
-    * [Initial analysis of FinFisher malware suite](https://github.com/FinFisher/FinFly-Web/tree/master/xpi) (Used prior experience with browser addons/extensions to analyze the FinFisher malware suite's Firefox browser addon/extension attack vector. See [pull request](https://github.com/FinFisher/FinFly-Web/pull/4))
-    * [Member of Archive Team](http://www.archiveteam.org/index.php?title=Special%3ASearch&search=aggroskater&go=Go)
-    * [Bug Squashing with GNU FSF's `wget`](https://savannah.gnu.org/bugs/index.php?36570)
-    * [Bug Squashing with Valve's `steam`](https://github.com/ValveSoftware/steam-for-linux/issues/753) (Ok, technically not Open Source, but still involved)
-    * A blog with [extensive](http://aspensmonster.com/2013/01/19/updated-procedures-for-installing-steam-for-linux-beta-on-debian-gnulinux-testingwheezy/) 
-      [documentation](http://aspensmonster.com/2011/10/22/setting-up-a-pxe-netboot-server-for-network-installations-of-gnulinux/) 
-      and [tutorials](http://aspensmonster.com/2011/09/11/installing-prboom-and-dosbox-without-root-privileges/) 
-      of [various GNU/Linux user needs](http://aspensmonster.com/2011/08/04/shell-scripting-for-pottermore/)
-      as well as [write-ups](http://aspensmonster.com/2009/12/27/find-the-maclaurin-series-for-sqrtx1/) 
-      of a [mathematical nature](http://aspensmonster.com/2010/11/19/a-blood-brain-pharmacokinetic-model/)
+    * Devops/Bug Squashing/Feature building work for Youtube Center (Assisted @YePpHa with automatic plugin updating for the YTC project.)
+    * Initial analysis of FinFisher malware suite (Used prior experience with browser addons/extensions to analyze the FinFisher malware suite's Firefox browser addon/extension attack vector.)
+    * Member of Archive Team
+    * Bug Squashing with GNU FSF's `wget`
+    * Bug Squashing with Valve's `steam` (Ok, technically not Open Source, but still involved)
+    * A blog with extensive
+      documentation
+      and tutorials
+      of various GNU/Linux user needs
+      as well as write-ups
+      of a mathematical nature
 * Projects
-    * [Hardware Random Number Generator](https://github.com/aggroskater/ee4390-senior-design-i/)
-    * [Terminal-based Aces Up card game in C++](https://github.com/aggroskater/cardgame.git)
-    * [Rudimentary DC Power Supply](https://github.com/aggroskater/ee3350-project/blob/master/final-psu.png)
-    * [Rudimentary Class A Power Amplifier](https://github.com/aggroskater/ee3350-project/blob/master/final-schem.png)
+    * Hardware Random Number Generator
+    * Terminal-based Aces Up card game in C++
+    * Rudimentary DC Power Supply
+    * Rudimentary Class A Power Amplifier
 * Languages and Tools
     * __Programming__: C++, Java, VHDL, HCS12 assembly
     * __Scripting__: Bash, Perl
