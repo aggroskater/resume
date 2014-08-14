@@ -1,4 +1,4 @@
-# Preston Maness - June 19 2014
+# Preston Maness - August 14 2014
 
 Recent EE grad from Texas State University. Clone my resume! 
 
