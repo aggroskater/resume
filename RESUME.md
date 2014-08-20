@@ -1,4 +1,4 @@
-# Preston Maness - August 14 2014
+# Preston Maness - August 20 2014
 
 Recent EE grad from Texas State University. Clone my resume! 
 
@@ -22,10 +22,9 @@ be useful __outside__ the datacenter, too.
 * Participation in Open Source and Free Software Community
     * [Devops/Bug Squashing/Feature building work for Youtube Center](https://github.com/YePpHa/YouTubeCenter/issues/219) (Assisted @YePpHa with automatic plugin updating for the YTC project. See [pull request](https://github.com/YePpHa/YouTubeCenter/pull/222))
     * [Initial analysis of FinFisher malware suite](https://github.com/FinFisher/FinFly-Web/tree/master/xpi) (Used prior experience with browser addons/extensions to analyze the FinFisher malware suite's Firefox browser addon/extension attack vector. See [pull request](https://github.com/FinFisher/FinFly-Web/pull/4))
-    * [Member of ArchiveTeam](http://www.archiveteam.org/index.php?title=Special%3ASearch&search=aggroskater&go=Go) (Preserving digital heritage before it is `rm -rf /`'d from existence)
+    * [Member of ArchiveTeam](http://www.archiveteam.org/index.php?title=Special%3ASearch&search=aggroskater&go=Go) (Preserving digital heritage before it is `rm -rf /`'d from existence. [Extended](https://github.com/aggroskater/twitchtv-grab) existing web-scraping pipeline to perform post-processing of scraped assets contained in ISO 28500-conforming WARC files. Sampling and shrinking of payloads (High-definition VODs) reduced storage requirements by 60 to 80 percent while maintaining minimum viable archive of material.)
     * [Bug Squashing with GNU FSF's `wget`](https://savannah.gnu.org/bugs/index.php?36570) (Tracked down a stubborn segfault that was killing long-running web scrapes prematurely in a non-recoverable manner)
-    * [Bug Squashing with Valve's `steam`](https://github.com/ValveSoftware/steam-for-linux/issues/753) (Ok, technically not Open Source, but still involved)
-    * A blog with [extensive](http://aspensmonster.com/2013/01/19/updated-procedures-for-installing-steam-for-linux-beta-on-debian-gnulinux-testingwheezy/) 
+    * A [blog](http://aspensmonster.com/) with [extensive](http://aspensmonster.com/2013/01/19/updated-procedures-for-installing-steam-for-linux-beta-on-debian-gnulinux-testingwheezy/) 
       [documentation](http://aspensmonster.com/2011/10/22/setting-up-a-pxe-netboot-server-for-network-installations-of-gnulinux/) 
       and [tutorials](http://aspensmonster.com/2011/09/11/installing-prboom-and-dosbox-without-root-privileges/) 
       of [various GNU/Linux user needs](http://aspensmonster.com/2011/08/04/shell-scripting-for-pottermore/)
@@ -35,10 +34,9 @@ be useful __outside__ the datacenter, too.
 * Projects
     * [Hardware Random Number Generator](https://github.com/aggroskater/ee4390-senior-design-i/) (Senior Design Capstone Project)
     * [Terminal-based Aces Up card game in C++](https://github.com/aggroskater/cardgame.git)
-    * [Rudimentary Class A Power Amplifier](https://github.com/aggroskater/ee3350-project/blob/master/final-schem.png)
 * Languages and Tools
     * __Programming__: C++, Java, VHDL, HCS12 assembly
-    * __Scripting__: Bash, Perl
+    * __Scripting__: Bash, Perl, Python
     * __Development Tools__: git, ant, GCC, eclipse, make, Doxygen, jenkins,
       valgrind
     * __Software__: Xilinx ISE, NI Multisim, LT-SPICE, MATLAB, Microwind,
