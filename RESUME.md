@@ -24,16 +24,10 @@ be useful __outside__ the datacenter, too.
     * [Initial analysis of FinFisher malware suite](https://github.com/FinFisher/FinFly-Web/tree/master/xpi) (Used prior experience with browser addons/extensions to analyze the FinFisher malware suite's Firefox browser addon/extension attack vector. See [pull request](https://github.com/FinFisher/FinFly-Web/pull/4))
     * [Member of ArchiveTeam](http://www.archiveteam.org/index.php?title=Special%3ASearch&search=aggroskater&go=Go) (Preserving digital heritage before it is `rm -rf /`'d from existence. [Extended](https://github.com/aggroskater/twitchtv-grab) existing web-scraping pipeline to perform post-processing of scraped assets contained in ISO 28500-conforming WARC files. Sampling and shrinking of payloads (High-definition VODs) reduced storage requirements by 60 to 80 percent while maintaining minimum viable archive of material.)
     * [Bug Squashing with GNU FSF's `wget`](https://savannah.gnu.org/bugs/index.php?36570) (Tracked down a stubborn segfault that was killing long-running web scrapes prematurely in a non-recoverable manner)
-    * A [blog](http://aspensmonster.com/) with [extensive](http://aspensmonster.com/2013/01/19/updated-procedures-for-installing-steam-for-linux-beta-on-debian-gnulinux-testingwheezy/) 
-      [documentation](http://aspensmonster.com/2011/10/22/setting-up-a-pxe-netboot-server-for-network-installations-of-gnulinux/) 
-      and [tutorials](http://aspensmonster.com/2011/09/11/installing-prboom-and-dosbox-without-root-privileges/) 
-      of [various GNU/Linux user needs](http://aspensmonster.com/2011/08/04/shell-scripting-for-pottermore/)
-      as well as [write-ups](http://aspensmonster.com/2009/12/27/find-the-maclaurin-series-for-sqrtx1/) 
-      of a [mathematical nature](http://aspensmonster.com/2010/11/19/a-blood-brain-pharmacokinetic-model/)
-      (100+ daily views)
 * Projects
     * [Hardware Random Number Generator](https://github.com/aggroskater/ee4390-senior-design-i/) (Senior Design Capstone Project)
     * [Terminal-based Aces Up card game in C++](https://github.com/aggroskater/cardgame.git)
+    * [4-bit ALU with complete functional verification (VHDL)](https://github.com/aggroskater/33421-vhdl-digital-design/Project-4-4bit-ALU/)
 * Languages and Tools
     * __Programming__: C++, Java, VHDL, HCS12 assembly
     * __Scripting__: Bash, Perl, Python
