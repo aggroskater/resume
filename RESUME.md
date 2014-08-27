@@ -28,6 +28,7 @@ be useful __outside__ the datacenter, too.
     * [Hardware Random Number Generator](https://github.com/aggroskater/ee4390-senior-design-i/) (Senior Design Capstone Project)
     * [Terminal-based Aces Up card game in C++](https://github.com/aggroskater/cardgame.git)
     * [4-bit ALU with complete functional verification (VHDL)](https://github.com/aggroskater/33421-vhdl-digital-design/Project-4-4bit-ALU/)
+    * [Class A power amplifier](https://github.com/aggroskater/ee3350-project/blob/master/final-schem.png)
 * Languages and Tools
     * __Programming__: C++, Java, VHDL, HCS12 assembly
     * __Scripting__: Bash, Perl, Python
