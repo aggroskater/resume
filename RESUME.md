@@ -1,8 +1,4 @@
-# Preston Maness - August 20 2014
-
-Recent EE grad from Texas State University. Clone my resume! 
-
-`$ git clone https://github.com/aggroskater/resume.git`
+# Preston Maness - October 16 2014
 
 * __Phone__: 512-955-1048 
 * __Email/Public-Key__: aggroskater@gmail.com 
@@ -44,6 +40,9 @@ and CentOS distribution experience)
 # The Experience and Education
 
 Where I've been.
+
+* Current Employment: __Rackspace Inc.__ (Since Oct. 2014)
+    * Linux Systems Administrator I (Oct. 2014 - Present)
 
 * Previous Employment
     * __Colorado School of Mines__ (4 months ; Sep. 2009 - Dec. 2009): "Digger
