@@ -1,6 +1,6 @@
 # Preston Maness - October 16 2014
 
-* __Phone__: 512-955-1048 
+* __Phone__: 512-955-1048 (RedPhone calls preferred; let's keep the spooks on their toes, shall we?)
 * __Email/Public-Key__: aggroskater@gmail.com 
     * Fingerprint: C2D7 6E31 48C4 1D1F E76D E6E8 CF21 ED69 9202 669D
     * Keybase.io: [https://keybase.io/aspensmonster](https://keybase.io/aspensmonster)
@@ -42,7 +42,7 @@ and CentOS distribution experience)
 Where I've been.
 
 * Current Employment: __Rackspace Inc.__ (Since Oct. 2014)
-    * Linux Systems Administrator I (Oct. 2014 - Present)
+    * GNU/Linux Systems Administrator I (Oct. 2014 - Present)
 
 * Previous Employment
     * __Colorado School of Mines__ (4 months ; Sep. 2009 - Dec. 2009): "Digger
