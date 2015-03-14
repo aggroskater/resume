@@ -1,4 +1,4 @@
-# Preston Maness - February 01 2015
+# Preston Maness - March 14 2015
 
 * __Phone__: 512-955-1048 (RedPhone calls preferred; let's keep the spooks on their toes, shall we?)
 * __Email/Public-Key__: aggroskater@gmail.com 
@@ -32,33 +32,51 @@ be useful __outside__ the datacenter, too.
       valgrind
     * __Software__: Xilinx ISE, NI Multisim, LT-SPICE, MATLAB, Microwind,
       iverilog, gtkwave, ngspice, vim
-    * __System Administration__: GNU/Linux (Apache, MySQL, PHP, Perl, Varish
-      HTTP accelerator, Wordpress, MediaWiki, Nagios monitoring, pnp4nagios,
-Vagrant VM manager, Ansible automation, APT and RPM package management, Debian
-and CentOS distribution experience)
+    * __Systems Administration__: 
+        * GNU/Linux: Apache, MySQL, PHP, Perl, Varish HTTP accelerator,
+	  Wordpress, MediaWiki, Nagios monitoring, pnp4nagios, Vagrant VM
+manager, Ansible automation, APT and RPM package management, Debian, CentOS and
+RHEL distribution experience, basic LDAP authentication and authorization
+mechanisms
+        * Networking: Understanding of: Cisco firewall and CSS configs, F5 load
+	  balancer configs, OSI network model, VLANs
 
-# The Experience and Education
+# The Experience, Certs, and Education
 
 Where I've been.
 
-* Current Employment: __Rackspace Inc.__ (Since Oct. 2014)
-    * GNU/Linux Systems Administrator I (Oct. 2014 - Present)
-
-* Previous Employment
-    * __Colorado School of Mines__ (4 months ; Sep. 2009 - Dec. 2009): "Digger
-      Dialer" - Fundraising, Donation Solicitation, general pestering of alumni
-      within a call-center environment.
-    * __Pei Wei Asian Diner__ (12 months ; Jan. 2010 - Jan. 2011): Cashier.
-      Performed any and all front-of-house duties as necessary (bussing,
-closing, etc).
+* Employment
+    * __Rackspace Inc.__ (Oct. 2014 - Present):
+        * GNU/Linux Systems Administrator I (Oct. 2014 - Present): Everything I
+          did at HostGator and more :) Customer-facing support via calls and
+tickets. Position requires understanding of Cisco and F5 firewalls, load
+balancers, and switches, along with a high-level understanding of datacenter
+network architecture (aggrs, core routers, edge routers, multiple back-end
+management networks). Work with DAS, NAS, and SAN storage mechanisms.  Basic
+VMware tasks (clone, resize, vMotion, etc). Support and troubleshoot our
+OpenStack-based cloud products. Currently developing internal python tool that
+interacts with several internal REST APIs to automate numerous issues where
+networking and systems administration teams intersect in an effort to reduce
+response times to incidents even further.
     * __HostGator.com LLC__ (13 months ; Jan. 2011 - Feb. 2012): GNU/Linux Web
       Hosting Systems Administration (Calls, Chats, Email), understanding of
 Apache, Exim, Dovecot, MySQL, cPanel, WHM, bash/perl scripting, strace
 debugging, customer site performance evaluation and optimization. Pushed for
 more thorough, root-cause analysis of customer issues at __first contact__ to
 avoid unnecessarily prolonging service degredation.
- 
-* Bachelor of Science, Electrical Engineering, Computer Engineering
-  concentration, Texas State University, class of 2014
-* Associate of Science, Applied Mathematics, Texas State University,
-  class of 2014
+    * __Pei Wei Asian Diner__ (12 months ; Jan. 2010 - Jan. 2011): Cashier.
+      Performed any and all front-of-house duties as necessary (bussing,
+closing, etc).
+    * __Colorado School of Mines__ (4 months ; Sep. 2009 - Dec. 2009): "Digger
+      Dialer" - Fundraising, Donation Solicitation, general pestering of alumni
+      within a call-center environment.
+
+* Certifications
+    * Red Hat Certified System Administrator, RHEL 7,
+      [150-035-228](https://www.redhat.com/wapps/training/certification/verify.html?certNumber=150-035-228&isSearch=False&verify=Verify)
+
+* Education
+    * Bachelor of Science, Electrical Engineering, Computer Engineering
+      concentration, Texas State University, class of 2014
+    * Associate of Science, Applied Mathematics, Texas State University, class
+      of 2014
