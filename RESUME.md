@@ -2,7 +2,7 @@
 
 * __Phone__: 512-955-1048 (RedPhone calls preferred; let's keep the spooks on their toes, shall we?)
 * __Email/Public-Key__: aggroskater@gmail.com 
-    * Fingerprint: C2D7 6E31 48C4 1D1F E76D E6E8 CF21 ED69 9202 669D
+    * Fingerprint: 7989 5B2E 0F87 503F 1DDE  80B6 4976 5D7F 0DDD 9BD5
     * Keybase.io: [https://keybase.io/aspensmonster](https://keybase.io/aspensmonster)
 * __Code__: [https://github.com/aggroskater/](https://github.com/aggroskater/) 
 * __LinkedIn__: [http://www.linkedin.com/pub/preston-maness/8b/973/202](http://www.linkedin.com/pub/preston-maness/8b/973/202)
