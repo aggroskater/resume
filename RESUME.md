@@ -1,4 +1,4 @@
-# Preston Maness - March 14 2015
+# Preston Maness - September 27 2015
 
 * __Phone__: 512-955-1048 (RedPhone calls preferred; let's keep the spooks on their toes, shall we?)
 * __Email/Public-Key__: aggroskater@gmail.com 
@@ -46,7 +46,7 @@ mechanisms
 Where I've been.
 
 * Employment
-    * __Rackspace Inc.__ (Oct. 2014 - Present):
+    * __Rackspace Inc.__ (Oct. 2014 - Sep. 2015):
         * GNU/Linux Systems Administrator I (Oct. 2014 - Present): Everything I
           did at HostGator and more :) Customer-facing support via calls and
 tickets. Position requires understanding of Cisco and F5 firewalls, load
@@ -54,10 +54,10 @@ balancers, and switches, along with a high-level understanding of datacenter
 network architecture (aggrs, core routers, edge routers, multiple back-end
 management networks). Work with DAS, NAS, and SAN storage mechanisms.  Basic
 VMware tasks (clone, resize, vMotion, etc). Support and troubleshoot our
-OpenStack-based cloud products. Currently developing internal python tool that
-interacts with several internal REST APIs to automate numerous issues where
-networking and systems administration teams intersect in an effort to reduce
-response times to incidents even further.
+OpenStack-based cloud products. Developed internal python tool that interacts
+with several internal REST APIs to automate numerous issues where networking
+and systems administration teams intersect in an effort to reduce response
+times to incidents even further.
     * __HostGator.com LLC__ (13 months ; Jan. 2011 - Feb. 2012): GNU/Linux Web
       Hosting Systems Administration (Calls, Chats, Email), understanding of
 Apache, Exim, Dovecot, MySQL, cPanel, WHM, bash/perl scripting, strace
