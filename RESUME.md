@@ -46,7 +46,7 @@ mechanisms
 Where I've been.
 
 * Employment
-    * __Rackspace Inc.__ (Oct. 2014 - Sep. 2015):
+    * __Rackspace Inc.__ (11 months ; Oct. 2014 - Sep. 2015):
         * GNU/Linux Systems Administrator I (Oct. 2014 - Present): Everything I
           did at HostGator and more :) Customer-facing support via calls and
 tickets. Position requires understanding of Cisco and F5 firewalls, load
