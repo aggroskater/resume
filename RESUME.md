@@ -1,6 +1,6 @@
-# Preston Maness - September 27 2015
+# Preston Maness - November 16 2015
 
-* __Phone__: 512-955-1048 (RedPhone calls preferred; let's keep the spooks on their toes, shall we?)
+* __Phone__: 512-955-1048 (Signal calls/texts preferred; let's keep the spooks on their toes, shall we?)
 * __Email/Public-Key__: aggroskater@gmail.com 
     * Fingerprint: 7989 5B2E 0F87 503F 1DDE  80B6 4976 5D7F 0DDD 9BD5
     * Keybase.io: [https://keybase.io/aspensmonster](https://keybase.io/aspensmonster)
