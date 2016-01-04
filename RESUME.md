@@ -1,4 +1,4 @@
-# Preston Maness - November 16 2015
+# Preston Maness - January 04 2016
 
 * __Phone__: 512-955-1048 (Signal calls/texts preferred; let's keep the spooks on their toes, shall we?)
 * __Email/Public-Key__: aspensmonster@riseup.net
@@ -11,25 +11,25 @@
 
 This is the stuff that I'm passionate about. These are the things I put effort 
 into and learn for no better reason than "because." Because technology is 
-awesome and community is important. But also because I really enjoy putting
-development and dev-ops tools into practice and believe that automation can
-be useful __outside__ the datacenter, too.
+awesome and community is important. There's a mix of software and hardware
+projects and languages/tools here given my formal EE education.
 
 * Participation in Open Source and Free Software Community
+    * [Regression squash and feature enhancement for BOINC distributed computing project](https://github.com/BOINC/boinc/pull/1453) ( __C++__ ; A pull request that fixed idle detection regression in BOINC client --originally reported in a [Debian GNU/Linux bug](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=721298) I helped to troubleshoot-- and improved its handling of various edge cases. This also introduced me to the autotools build suite/toolchain.)
     * [Devops/Bug Squashing/Feature building work for Youtube Center](https://github.com/YePpHa/YouTubeCenter/issues/219) (Assisted @YePpHa with automatic plugin updating for the YTC project. See [pull request](https://github.com/YePpHa/YouTubeCenter/pull/222))
     * [Initial analysis of FinFisher malware suite](https://github.com/FinFisher/FinFly-Web/tree/master/xpi) (Used prior experience with browser addons/extensions to analyze the FinFisher malware suite's Firefox browser addon/extension attack vector. See [pull request](https://github.com/FinFisher/FinFly-Web/pull/4))
-    * [Member of ArchiveTeam](http://www.archiveteam.org/index.php?title=Special%3ASearch&search=aggroskater&go=Go) (Preserving digital heritage before it is `rm -rf /`'d from existence. [Extended](https://github.com/aggroskater/twitchtv-grab) existing web-scraping pipeline to perform post-processing of scraped assets contained in ISO 28500-conforming WARC files. Sampling and shrinking of payloads (High-definition VODs) reduced storage requirements by 60 to 80 percent while maintaining minimum viable archive of material.)
-    * [Bug Squashing with GNU FSF's `wget`](https://savannah.gnu.org/bugs/index.php?36570) (Tracked down a stubborn segfault that was killing long-running web scrapes prematurely in a non-recoverable manner)
+    * [Member of ArchiveTeam](http://www.archiveteam.org/index.php?title=Special%3ASearch&search=aggroskater&go=Go) ( __Python__ ; Preserving digital heritage before it is `rm -rf /`'d from existence. [Extended](https://github.com/aggroskater/twitchtv-grab) existing web-scraping pipeline to perform post-processing of scraped assets contained in ISO 28500-conforming WARC files. Sampling and shrinking of payloads (High-definition VODs) reduced storage requirements by 60 to 80 percent while maintaining minimum viable archive of material.)
+    * [Bug Squashing with GNU FSF's `wget`](https://savannah.gnu.org/bugs/index.php?36570) ( __C__ ; Tracked down a stubborn segfault that was killing long-running web scrapes prematurely in a non-recoverable manner)
 * Projects
     * [Hardware Random Number Generator](https://github.com/aggroskater/ee4390-senior-design-i/) (Senior Design Capstone Project)
     * [Terminal-based Aces Up card game in C++](https://github.com/aggroskater/cardgame.git)
     * [4-bit ALU with complete functional verification (VHDL)](https://github.com/aggroskater/33421-vhdl-digital-design/Project-4-4bit-ALU/)
     * [Class A power amplifier](https://github.com/aggroskater/ee3350-project/blob/master/final-schem.png)
 * Languages and Tools
-    * __Programming__: C++, Java, VHDL, HCS12 assembly
+    * __Programming__: C++, C, Java, VHDL, HCS12 assembly
     * __Scripting__: Bash, Perl, Python
     * __Development Tools__: git, ant, GCC, eclipse, make, Doxygen, jenkins,
-      valgrind
+      valgrind, autotools
     * __Software__: Xilinx ISE, NI Multisim, LT-SPICE, MATLAB, Microwind,
       iverilog, gtkwave, ngspice, vim
     * __Systems Administration__: 
@@ -38,8 +38,9 @@ be useful __outside__ the datacenter, too.
 manager, Ansible automation, APT and RPM package management, Debian, CentOS and
 RHEL distribution experience, basic LDAP authentication and authorization
 mechanisms
-        * Networking: Understanding of: Cisco firewall and CSS configs, F5 load
-	  balancer configs, OSI network model, VLANs
+	* Networking: Understanding of: Cisco firewall and CSS configs, F5 load
+	  balancer configs, OSI network model, VLANs (I also dabble with
+Mikrotik network gear)
 
 # The Experience, Certs, and Education
 
