@@ -1,4 +1,4 @@
-# Preston Maness - January 04 2016
+# Preston Maness - February 23 2016
 
 * __Phone__: 512-955-1048 (Signal calls/texts preferred; let's keep the spooks on their toes, shall we?)
 * __Email/Public-Key__: aspensmonster@riseup.net
@@ -16,6 +16,7 @@ awesome and community is important. There's a mix of software and hardware
 projects and languages/tools here given my formal EE education.
 
 * Participation in Open Source and Free Software Community
+    * [Debian GNU/Linux Package Maintenance](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=815214) (Fixed logging problems when moving from sysv init to systemd by tweaking the service file of the BOINC package.)
     * [Regression squash and feature enhancement for BOINC distributed computing project](https://github.com/BOINC/boinc/pull/1453) ( __C++__ ; A pull request that fixed idle detection regression in BOINC client --originally reported in a [Debian GNU/Linux bug](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=721298) I helped to troubleshoot-- and improved its handling of various edge cases. This also introduced me to the autotools build suite/toolchain.)
     * [Devops/Bug Squashing/Feature building work for Youtube Center](https://github.com/YePpHa/YouTubeCenter/issues/219) (Assisted @YePpHa with automatic plugin updating for the YTC project. See [pull request](https://github.com/YePpHa/YouTubeCenter/pull/222))
     * [Initial analysis of FinFisher malware suite](https://github.com/FinFisher/FinFly-Web/tree/master/xpi) (Used prior experience with browser addons/extensions to analyze the FinFisher malware suite's Firefox browser addon/extension attack vector. See [pull request](https://github.com/FinFisher/FinFly-Web/pull/4))
