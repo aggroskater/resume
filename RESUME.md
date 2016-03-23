@@ -6,7 +6,6 @@
     * Keybase.io: [https://keybase.io/aspensmonster](https://keybase.io/aspensmonster)
 * __Code__: [https://github.com/aggroskater/](https://github.com/aggroskater/) 
 * __LinkedIn__: [http://www.linkedin.com/pub/preston-maness/8b/973/202](http://www.linkedin.com/pub/preston-maness/8b/973/202)
-* __Intro Video__: [A quick intro](https://www.youtube.com/watch?v=oHg5SJYRHA0)
 
 # The Involvement
 
@@ -83,4 +82,3 @@ closing, etc).
     * Associate of Science, Applied Mathematics, Texas State University, class
       of 2014
 
-[And if you've made it this far...](https://www.youtube.com/watch?v=z9Uz1icjwrM)
