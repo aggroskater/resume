@@ -1,4 +1,4 @@
-# Preston Maness - March 25 2016
+# Preston Maness - July 04 2016
 
 * __Phone__: 512-955-1048 (Signal calls/texts preferred; let's keep the spooks on their toes, shall we?)
 * __Email/Public-Key__: aspensmonster@riseup.net
@@ -15,6 +15,7 @@ awesome and community is important. There's a mix of software and hardware
 projects and languages/tools here given my formal EE education.
 
 * Participation in Open Source and Free Software Community
+    * [Staying on top of bugs my code introduces](https://github.com/BOINC/boinc/issues/1530) (My idle detection code for the BOINC project had a null pointer dereference bug)
     * [Debian GNU/Linux Package Maintenance](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=815214) (Fixed logging problems when moving from sysv init to systemd by tweaking the service file of the BOINC package.)
     * [Regression squash and feature enhancement for BOINC distributed computing project](https://github.com/BOINC/boinc/pull/1453) ( __C++__ ; A pull request that fixed idle detection regression in BOINC client --originally reported in a [Debian GNU/Linux bug](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=721298) I helped to troubleshoot-- and improved its handling of various edge cases. This also introduced me to the autotools build suite/toolchain.)
     * [Devops/Bug Squashing/Feature building work for Youtube Center](https://github.com/YePpHa/YouTubeCenter/issues/219) (Assisted @YePpHa with automatic plugin updating for the YTC project. See [pull request](https://github.com/YePpHa/YouTubeCenter/pull/222))
@@ -48,6 +49,22 @@ Mikrotik network gear)
 Where I've been.
 
 * Employment
+    * __360Connect__ (4 months ; Apr. 2016 - present): Software Support
+      Engineer, involved in managing systems integrations and analytics
+pipelines (managing middleware and some infrastructure).
+      * Provided feature enhancements to Coffeescript plugins (tested with
+	Mocha/Chai) for the [LeadConduit](http://activeprospect.com/products/leadconduit/) platform:
+        * [extending XML integration](https://github.com/activeprospect/leadconduit-integration-custom/issues/26)
+        * [extending JSON integration](https://github.com/activeprospect/leadconduit-integration-custom/pull/28)
+      * Automated numerous aspects of position by utilizing public APIs,
+	Selenium, and python. Wrote simple flask app to consume MailGun webhook
+events and automatically email appropriate person with details. Wrote python
+script to [appropriately
+poll](https://documentation.mailgun.com/api-events.html#event-polling) mailgun
+event API and upload to S3 for further processing. Used python extensively to
+interact with [LeadConduit Platform
+API](http://docs.activeprospect.com/leadconduit/resources.html) and
+programmatically manage/update/deploy lead flows.
     * __Rackspace Inc.__ (11 months ; Oct. 2014 - Sep. 2015): GNU/Linux Systems
       Administrator I. Everything I did at HostGator and more :)
 Customer-facing support via calls and tickets. Position requires understanding
