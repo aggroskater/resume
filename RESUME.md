@@ -1,4 +1,4 @@
-# Preston Maness - January 08 2017
+# Preston Maness - May 27 2018
 
 * __Phone__: 512-955-1048 (I'm on [Signal](https://whispersystems.org/))
 * __Email/Public-Key__: aspensmonster@riseup.net
@@ -7,65 +7,27 @@
 * __Code__: [https://github.com/aggroskater/](https://github.com/aggroskater/) 
 * __LinkedIn__: [http://www.linkedin.com/pub/preston-maness/8b/973/202](http://www.linkedin.com/pub/preston-maness/8b/973/202)
 
-# The Involvement
-
-* Participation in Open Source and Free Software Community
-    * [Staying on top of bugs my code
-      introduces](https://github.com/BOINC/boinc/issues/1530) (My idle
-detection code for the BOINC project had a null pointer dereference bug under
-certain environment conditions)
-    * [Debian GNU/Linux Package
-      Maintenance](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=815214)
-(Fixed logging problems when moving from sysv init to systemd by tweaking the
-service file of the BOINC package.)
-    * [Regression squash and feature enhancement for BOINC distributed
-      computing project](https://github.com/BOINC/boinc/pull/1453) ( __C++__ ;
-A pull request that fixed idle detection regression in BOINC client
---originally reported in a [Debian GNU/Linux
-bug](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=721298) I helped to
-troubleshoot-- and improved its handling of various edge cases. This also
-introduced me to the autotools build suite/toolchain.)
-    * [Initial analysis of FinFisher malware
-      suite](https://github.com/FinFisher/FinFly-Web/tree/master/xpi) (Used
-prior experience with browser addons/extensions to analyze the FinFisher
-malware suite's Firefox browser addon/extension attack vector. See [pull
-request](https://github.com/FinFisher/FinFly-Web/pull/4))
-    * [Bug Squashing with GNU FSF's
-      `wget`](https://savannah.gnu.org/bugs/index.php?36570) ( __C__ ; Tracked
-down a stubborn segfault that was killing long-running web scrapes prematurely
-in a non-recoverable manner)
-* Reasonably Complete School Projects
-    * [Hardware Random Number
-      Generator](https://github.com/aggroskater/ee4390-senior-design-i/)
-(Senior Design Capstone Project)
-    * [Terminal-based Aces Up card game in
-      C++](https://github.com/aggroskater/cardgame.git)
-    * [4-bit ALU with complete functional verification
-      (VHDL)](https://github.com/aggroskater/33421-vhdl-digital-design/Project-4-4bit-ALU/)
-* Languages and Tools
-    * __Programming__: Bash, Python, SQL, Javascript-related, C# (older
-      experience: C++, C, Java, VHDL, HCS12 assembly)
-    * __Tooling__: git, GCC, eclipse, make, Doxygen, jenkins, valgrind, Visual
-      Studio, numerous javascript-related tools, Excel
-    * __Operations__: 
-        * GNU/Linux: Apache, MySQL, PHP, Perl, Varish HTTP accelerator,
-	  Wordpress, MediaWiki, Nagios monitoring, pnp4nagios, Vagrant VM
-manager, Ansible automation, APT and RPM package management, Debian, CentOS and
-RHEL distribution experience, basic LDAP authentication and authorization
-mechanisms.
-        * Windows: Minimal exposure to Azure.
-        * AWS: Experience with EC2, LCs, ASGs (and lifecycle hooks), ELBs, S3,
-	  VPCs, CloudWatch, DynamoDB, Kinesis streams, Elasticsearch Service,
-EMR, Redshift, IAM; all typically managed with an infrastructure-as-code
-approach with Ansible. Also utilize the AWS CLIs.
-        * Networking: Understanding of: Cisco firewall and CSS configs, F5 load
-	  balancer configs, OSI network model, VLANs (I also dabble with
-Mikrotik network gear).
-
 # The Experience, Certs, and Education
 
 * Employment
-    * __360Connect__ (10 months ; Apr. 2016 - present): Software Support
+    * __360Connect__ (2 months ; Apr. 2018 - present): Software Engineer,
+      maintain legacy C# codebases and develop new ones (Apr. 2018 is my
+HR-Official<sup>TM</sup> start of these duties, but actual beginnings was back
+in summer of 2017). Also, continue ownership of previous support duties.
+        * Build ASP.NET Web API 2 back-end for new Angular front-ends. Balance
+	  speed of releases with management of technical debt. Aim to follow
+SOLID principles. Manage CI infrastructure and deployment of application to
+Azure App Services. On schedule to fully decommission legacy codebases by April
+2019.
+            * Incomplete list of involved libraries, frameworks, etc:
+	      SimpleInjector for DI/IOC, FluentValidation for initial payload
+validating, Entity Framework for database interaction, HangFire for
+off-pipeline jobs, ASP.NET Identity for user management, NUnit for unit and
+integration testing
+        * Re-built an internal tool for performing automated, near real-time
+	  bidding on SEM platforms (AdWords) that reflected our current
+inventory. Resulted in improved margin/ROAS.
+    * __360Connect__ (24 months ; Apr. 2016 - Mar. 2018): Software Support
       Engineer, involved in managing systems integrations and analytics
 pipelines (managing middleware and certain infrastructure).
         * Built and maintained [Snowplow
@@ -122,4 +84,47 @@ avoid unnecessarily prolonging service degredation.
       concentration, Texas State University, class of 2014
     * Associate of Science, Applied Mathematics, Texas State University, class
       of 2014
+
+# The Involvement
+
+* Participation in Open Source and Free Software Community
+    * [Staying on top of bugs my code
+      introduces](https://github.com/BOINC/boinc/issues/1530) (My idle
+detection code for the BOINC project had a null pointer dereference bug under
+certain environment conditions)
+    * [Debian GNU/Linux Package
+      Maintenance](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=815214)
+(Fixed logging problems when moving from sysv init to systemd by tweaking the
+service file of the BOINC package.)
+    * [Regression squash and feature enhancement for BOINC distributed
+      computing project](https://github.com/BOINC/boinc/pull/1453) ( __C++__ ;
+A pull request that fixed idle detection regression in BOINC client
+--originally reported in a [Debian GNU/Linux
+bug](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=721298) I helped to
+troubleshoot-- and improved its handling of various edge cases. This also
+introduced me to the autotools build suite/toolchain.)
+    * [Bug Squashing with GNU FSF's
+      `wget`](https://savannah.gnu.org/bugs/index.php?36570) ( __C__ ; Tracked
+down a stubborn segfault that was killing long-running web scrapes prematurely
+in a non-recoverable manner)
+* Languages and Tools
+    * __Programming__: Bash, Python, SQL, Javascript-related, C# (older
+      experience: C++, C, Java, VHDL, HCS12 assembly)
+    * __Tooling__: git, GCC, eclipse, make, Doxygen, jenkins, valgrind, Visual
+      Studio, numerous javascript-related tools, Excel
+    * __Operations__: 
+        * GNU/Linux: Apache, MySQL, PHP, Perl, Varish HTTP accelerator,
+	  Wordpress, MediaWiki, Nagios monitoring, pnp4nagios, Vagrant VM
+manager, Ansible automation, APT and RPM package management, Debian, CentOS and
+RHEL distribution experience, basic LDAP authentication and authorization
+mechanisms.
+        * Windows: Experience with Azure App Services, Azure SQL
+        * AWS: Experience with EC2, LCs, ASGs (and lifecycle hooks), ELBs, S3,
+	  VPCs, CloudWatch, DynamoDB, Kinesis streams, Elasticsearch Service,
+EMR, Redshift, IAM; all typically managed with an infrastructure-as-code
+approach with Ansible. Also utilize the AWS CLIs.
+        * Networking: Understanding of: Cisco firewall and CSS configs, F5 load
+	  balancer configs, OSI network model, VLANs (I also dabble with
+Mikrotik network gear).
+
 
